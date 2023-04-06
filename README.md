@@ -1,4 +1,4 @@
-# 3-Second-Email
+# 3-Second-Email (LangChain, OpenAI, Streamlit)
 
 This project is a tool designed to improve email writing skills for professionals who may lack the necessary grammatical or literacy proficiency. By converting poorly written emails into a more polished and professional format, the tool can help elevate email communication to a higher standard.
 
